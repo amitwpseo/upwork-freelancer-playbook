@@ -2,9 +2,9 @@
 
 # 🧭 Upwork Freelancer Playbook
 
-**A Claude skill and reference for writing Upwork work that is within the rules, within the limits, and true.**
+**A playbook any AI assistant can follow to write Upwork work that is within the rules, within the limits, and true.**
 
-![Format](https://img.shields.io/badge/format-Claude%20skill-6B4FBB)
+![Works with](https://img.shields.io/badge/works%20with-any%20AI-6B4FBB)
 ![Platform](https://img.shields.io/badge/platform-Upwork-14A800)
 ![Status](https://img.shields.io/badge/status-living%20document-blue)
 
@@ -26,13 +26,28 @@
 
 ## Quick start
 
-1. Open [`SKILL.md`](SKILL.md). It is the full playbook.
+1. Open [`PLAYBOOK.md`](PLAYBOOK.md). It is the full playbook, written to work with any AI assistant.
 2. Fill in section 8 (**Positioning and proof**) with your own true facts.
-3. Use it as a checklist when you write a proposal, edit your profile, or build a listing.
+3. Give it to your AI of choice (see below), then ask it to write or check your Upwork work.
 
-### Use it as a Claude skill
+## Use it with any AI
 
-Add `SKILL.md` as a custom skill in Claude. Claude then checks your drafts against these rules and limits, shows character counts, and keeps claims honest.
+| AI tool | How to use it |
+|---|---|
+| **Claude** | Add [`SKILL.md`](SKILL.md) as a custom skill, or paste `PLAYBOOK.md` into a Project's instructions |
+| **ChatGPT** | Paste `PLAYBOOK.md` into a Project's instructions, a Custom GPT, or Custom Instructions |
+| **Gemini** | Paste `PLAYBOOK.md` into a Gem's instructions |
+| **Any other AI** (Copilot, Perplexity, Grok, local models) | Paste `PLAYBOOK.md` as the system prompt, or at the start of the chat |
+| **Coding assistants** (Cursor, Copilot, Codex and others) | Keep the repo in your workspace; [`AGENTS.md`](AGENTS.md) points them to the playbook |
+
+Then ask things like:
+
+- *"Here is a job post. Should I apply? Write a short proposal."*
+- *"Check my profile title and overview against the playbook."*
+- *"Draft a Project Catalog listing for [your service] and check every character limit."*
+
+> [!TIP]
+> Tools that can run code will count characters exactly. For others, double-check limited fields in Upwork's live counter.
 
 ## The five rules to remember
 

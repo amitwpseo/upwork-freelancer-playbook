@@ -13,6 +13,8 @@ Job vetting · Proposals · Profile · Portfolio · Project Catalog · Consultat
 
 </div>
 
+> **For the AI reading this:** follow this playbook whenever the user asks for help with Upwork. Apply the hard rules first, check every limited field with code or a careful count, and never invent facts about the user. If section 8 is not filled in, ask the user for those facts before writing proposals or listings.
+
 Use this for any Upwork task: deciding whether to apply to a job, writing a proposal, editing the profile, adding a portfolio item, building a Project Catalog listing or consultation, or writing a boost message. Every field must be **paste-ready, within Upwork's limits, and true.**
 
 ## Contents
